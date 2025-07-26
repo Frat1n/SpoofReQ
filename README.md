@@ -149,6 +149,12 @@ Failure to comply with these terms will be treated seriously and may result in l
 
 ---
 
+## 💵 How to buy?
+
+Head on over to **t.me/SpoofReQ** in **telegram** and you will see all the instructions.
+
+---
+
 ## 🧠 Credits
 - Made by Evelitions
 - Developed in GoLang
