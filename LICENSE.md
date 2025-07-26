@@ -4,7 +4,7 @@
 
 ## 1. License Grant
 
-Evelitions ("Author") grants you a non-exclusive, non-transferable license to use SpoofReQ under the following terms:
+The Author ("Evelitions") grants you a non-exclusive, non-transferable license to use SpoofReQ under the following terms:
 
 - You may use the **free version** of SpoofReQ without charge for personal or educational purposes.
 - The **paid version** is licensed for individual use only and requires purchase through official channels.
